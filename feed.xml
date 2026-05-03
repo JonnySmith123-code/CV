@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Jonny Gondzic</title>
+    <link>https://example.com/</link>
+    <description>Articles by Jonny Gondzic</description>
+    <language>en-gb</language>
+    <item>
+        <title>Should doctors care that I'm a Pork Pie?</title>
+        <link>https://example.com/articles/should-doctors-care-pork-pie.html</link>
+        <description>On patient-generated health data, the NHS 10 Year Plan, and the GP of the future.</description>
+        <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+        <guid>https://example.com/articles/should-doctors-care-pork-pie.html</guid>
+    </item>
+</channel>
+</rss>
