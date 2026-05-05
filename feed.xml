@@ -7,17 +7,17 @@
     <language>en-gb</language>
     <item>
         <title>Will Longevity Science Finally Shed Its Snake-Oil Skin?</title>
-        <link>https://example.com/articles/will-longevity-shed-snake-oil.html</link>
+        <link>https://example.com/articles/will-longevity-shed-snake-oil/</link>
         <description>On Life Biosciences' ER-100 trial, partial reprogramming, and whether longevity science can finally deliver clinical proof.</description>
         <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-        <guid>https://example.com/articles/will-longevity-shed-snake-oil.html</guid>
+        <guid>https://example.com/articles/will-longevity-shed-snake-oil/</guid>
     </item>
     <item>
         <title>Should doctors care that I'm a Pork Pie?</title>
-        <link>https://example.com/articles/should-doctors-care-pork-pie.html</link>
+        <link>https://example.com/articles/should-doctors-care-pork-pie/</link>
         <description>On patient-generated health data, the NHS 10 Year Plan, and the GP of the future.</description>
         <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        <guid>https://example.com/articles/should-doctors-care-pork-pie.html</guid>
+        <guid>https://example.com/articles/should-doctors-care-pork-pie/</guid>
     </item>
 </channel>
 </rss>
